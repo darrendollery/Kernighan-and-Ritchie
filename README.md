@@ -1,2 +1,2 @@
 # Kernighan-and-Ritchie
-Solutions to K&amp;R exercises
+Solutions to Kernighan &amp; Ritchie 'C Programming Language' exercises

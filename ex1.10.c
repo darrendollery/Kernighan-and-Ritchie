@@ -13,10 +13,10 @@ int main (void ) {
     if (c == '\t'){
       putchar('\\');
       putchar('t');}
-    if (c == '\b') {
+    else if (c == '\b') {
       putchar('\\');
       putchar('b');}
-    if (c == '\\') {
+    else if (c == '\\') {
       putchar('\\');
       putchar('\\');}
     else putchar(c);

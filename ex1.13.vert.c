@@ -1,5 +1,5 @@
 /* A program to produce a histogram of the length of
-   word entered by the user. This is the 'vertical print' version */
+   words entered by the user. This is the 'vertical print' version */
 
 #include <stdio.h>
 

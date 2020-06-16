@@ -5,10 +5,10 @@
 
 int main (void)
 {
-  int c, state, count, i, line;
+  int c, count, i, line;
   int wordlen[20];
 
-  state = count = line = 0;
+  count = line = 0;
   for (i = 0; i < 20; ++i) {
     wordlen[i] = 0;}
 
